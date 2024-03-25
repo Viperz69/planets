@@ -6,4 +6,5 @@ The two moons may be a problem for Jon
 
 Jon will appreciate the lack of humidity
 
-We added a different line in the other copy
+We removed the conflict on this line
+
